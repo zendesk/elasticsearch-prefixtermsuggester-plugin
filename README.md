@@ -1,4 +1,4 @@
-#Elasticsearch Prefix Term Suggester Plugin
+# Elasticsearch Prefix Term Suggester Plugin
 
 
 Prefix Term Suggester is very similar to [Elasticsearch Term Suggester](https://www.elastic.co/guide/en/elasticsearch/reference/7.7/search-suggesters.html#term-suggester).
